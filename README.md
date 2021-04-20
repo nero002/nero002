@@ -11,7 +11,7 @@ Hi there 👋
 
 ![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nero002&show_icons=true&theme=radical)
 
-![Top Langs](![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nero002&layout=compact))
+![Top Langs](https://camo.githubusercontent.com/af307bcaa8e23cc44add852f732bf5de62d7588114133bacc419c54e7d792dcd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e65726f303032266c61796f75743d636f6d70616374267468656d653d7261646963616c)
 
 
 ![Dhiraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=nero002&theme=dracula)
