@@ -8,8 +8,13 @@ Hi there 👋
 <li>😄 Pronouns: He/Him/His</li>
 <li>⚡ Fun fact: I am a secret gamer and bag packer</li>
 </ul>
+---
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+🧰 Toolbox
+<img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+---
+
+
 
 ![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nero002&show_icons=true&theme=radical)
 
