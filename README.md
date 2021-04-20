@@ -11,7 +11,10 @@ Hi there 👋
 ---
 
 🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="Kotlin logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+
 ---
 
 
