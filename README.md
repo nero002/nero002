@@ -11,7 +11,7 @@ Hi there 👋
 
 ![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nero002&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nero002&layout=compact&theme=radical)
+![Top Langs](![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nero002&layout=compact))
 
 
 ![Dhiraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=nero002&theme=dracula)
