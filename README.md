@@ -4,7 +4,7 @@ Hi there 👋
   
 <li>🌱 I’m currently learning Android.</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://www.linkedin.com/in/dheerajgupta02/" rel="nofollow">Dheeraj Gupta</a></li>
-<li>Google PlayStore <a href="https://play.google.com/store/apps/developer?id=Proud+Banana" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/google-2.svg" alt="Play logo" width="50" height="30"/></a></li>
+<li>You can download apps from <a href="https://play.google.com/store/apps/developer?id=Proud+Banana" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/google-2.svg" alt="Play logo" width="50" height="30"/></a></li>
 <li>😄 Pronouns: He/Him/His</li>
 <li>⚡ Fun fact: I am a secret gamer and bag packer</li>
 </ul>
