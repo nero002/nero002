@@ -6,14 +6,15 @@ Joined GitHub **8** years ago.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| **42** public repos | **1** commits | ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%20100%25) |
-| **312** commits | **0** issues |  |
+| **42** public repos | **2** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2050%25) |
+| **313** commits | **0** issues | ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%2050%25) |
 | **4** issues | **5** PRs |  |
-| **63** PRs | ![+0](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B0) lines added |  |
-| **17** stars | ![0](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=0) lines removed |  |
+| **63** PRs | ![+1,393](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B1%2C393) lines added |  |
+| **17** stars | ![-18](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-18) lines removed |  |
 
 ## Most Active Projects (Last Year)
 
+- [nero002](https://github.com/nero002/nero002) - 1 commits, ![+1,393](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B1%2C393) ![-18](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-18)
 - [News-App-Kulu-assigment](https://github.com/nero002/News-App-Kulu-assigment) - 1 commits, ![+0](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B0) ![0](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=0)
 
 ## Connect with me
