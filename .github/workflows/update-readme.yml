@@ -11,6 +11,9 @@ on:
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -41,4 +44,3 @@ jobs:
         with:
           commit_message: "Update profile README"
           file_pattern: README.md stats-cache.json language-colors-cache.json
-
