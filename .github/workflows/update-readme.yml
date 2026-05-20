@@ -1,0 +1,44 @@
+name: Update profile README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate README.md
+        run: npm run generate
+        env:
+          TARGET_USERNAME: nero002
+          USER_API_TOKEN: ${{ secrets.USER_API_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+
+      - name: Commit README updates
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update profile README"
+          file_pattern: README.md stats-cache.json language-colors-cache.json
+

@@ -1,0 +1,17 @@
+{
+  "name": "nero002-profile-readme",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generate the nero002 GitHub profile README.",
+  "main": "generate-stats.js",
+  "scripts": {
+    "generate": "node generate-stats.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
+

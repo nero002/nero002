@@ -1,25 +1,21 @@
-Hi there 👋
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nero002&label=Profile%20views&color=0e75b6&style=flat" alt="nero002" /> </p> -->
-<ul>
-  
-<li>🌱 I’m currently learning Android.</li>
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://www.linkedin.com/in/dheerajgupta02/" rel="nofollow">Dheeraj Gupta</a></li>
-<li>😄 Pronouns: He/Him/His</li>
-<li>⚡ Fun fact: I am a secret gamer and bag packer</li>
+# Hi there, I'm Dheeraj Gupta
 
-</ul>
+Joined GitHub **8** years ago.
 
----
-🧰 Toolbox
- 
-<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring logo" width="40" height="40"/>       <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="Kotlin logo" width="50" height="50"/>                 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>    
+## Stats
 
----
+| All Time | Last Year | Top languages (last year) |
+|----------|-----------|---------------------------|
+| **42** public repos | **1** commits | ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%20100%25) |
+| **312** commits | **0** issues |  |
+| **4** issues | **5** PRs |  |
+| **63** PRs | ![+0](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B0) lines added |  |
+| **17** stars | ![0](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=0) lines removed |  |
 
+## Most Active Projects (Last Year)
 
+- [News-App-Kulu-assigment](https://github.com/nero002/News-App-Kulu-assigment) - 1 commits, ![+0](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B0) ![0](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=0)
 
-![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nero002&show_icons=true&theme=radical)
+## Connect with me
 
-![Top Langs](https://camo.githubusercontent.com/af307bcaa8e23cc44add852f732bf5de62d7588114133bacc419c54e7d792dcd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e65726f303032266c61796f75743d636f6d70616374267468656d653d7261646963616c)
-
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nero002)
