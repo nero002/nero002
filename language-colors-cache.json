@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779253961016,
+  "timestamp": 1779415875058,
   "colors": {
     "1C Enterprise": "#814CCC",
     "2-Dimensional Array": "#38761D",
@@ -470,6 +470,7 @@
     "Quake": "#882233",
     "QuakeC": "#975777",
     "QuickBASIC": "#008080",
+    "Quint": "#9d6ce5",
     "R": "#198CE7",
     "RAML": "#77d9fb",
     "RAScript": "#2C97FA",
