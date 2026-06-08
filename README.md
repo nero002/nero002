@@ -6,15 +6,15 @@ Joined GitHub **8** years ago.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| **43** public repos | **23** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2095%25) |
-| **334** commits | **0** issues | ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%205%25) |
+| **43** public repos | **24** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2096%25) |
+| **335** commits | **0** issues | ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%204%25) |
 | **4** issues | **8** PRs |  |
-| **66** PRs | ![+1,512](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B1%2C512) lines added |  |
-| **17** stars | ![-128](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-128) lines removed |  |
+| **66** PRs | ![+1,519](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B1%2C519) lines added |  |
+| **17** stars | ![-134](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-134) lines removed |  |
 
 ## Most Active Projects (Last Year)
 
-- [nero002](https://github.com/nero002/nero002) - 21 commits, ![+1,512](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B1%2C512) ![-128](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-128)
+- [nero002](https://github.com/nero002/nero002) - 22 commits, ![+1,519](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B1%2C519) ![-134](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-134)
 - [News-App-Kulu-assigment](https://github.com/nero002/News-App-Kulu-assigment) - 1 commits, ![+0](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B0) ![0](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=0)
 
 ## Connect with me
