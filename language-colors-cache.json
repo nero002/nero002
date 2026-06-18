@@ -1,5 +1,5 @@
 {
-  "timestamp": 1781577783216,
+  "timestamp": 1781750186504,
   "colors": {
     "1C Enterprise": "#814CCC",
     "2-Dimensional Array": "#38761D",
@@ -61,6 +61,7 @@
     "Blade": "#f7523f",
     "BlitzBasic": "#00FFAE",
     "BlitzMax": "#cd6400",
+    "Blueprint": "#3584E4",
     "Bluespec": "#12223c",
     "Bluespec BH": "#12223c",
     "Boo": "#d4bec1",
