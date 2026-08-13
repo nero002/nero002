@@ -1,5 +1,5 @@
 {
-  "timestamp": 1786496379319,
+  "timestamp": 1786582900504,
   "colors": {
     "1C Enterprise": "#814CCC",
     "2-Dimensional Array": "#38761D",
@@ -45,6 +45,7 @@
     "AutoIt": "#1C3552",
     "Avro IDL": "#0040FF",
     "Awk": "#c30e9b",
+    "B": "#da7666",
     "B (Formal Method)": "#8aa8c5",
     "B4X": "#00e4ff",
     "BAML": "#a855f7",
