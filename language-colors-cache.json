@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787445499419,
+  "timestamp": 1787618214637,
   "colors": {
     "1C Enterprise": "#814CCC",
     "2-Dimensional Array": "#38761D",
@@ -623,6 +623,7 @@
     "Vento": "#ff0080",
     "Verilog": "#b2b7f8",
     "Verse": "#518ef8",
+    "Vespa Schema Definition": "#61D790",
     "Vim Help File": "#199f4b",
     "Vim Snippet": "#199f4b",
     "Vim script": "#199f4b",
