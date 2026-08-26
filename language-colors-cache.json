@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787618214637,
+  "timestamp": 1787704655520,
   "colors": {
     "1C Enterprise": "#814CCC",
     "2-Dimensional Array": "#38761D",
@@ -485,6 +485,7 @@
     "Qt Script": "#00b841",
     "Quake": "#882233",
     "QuakeC": "#975777",
+    "Quartus Simulation IP": "#58C42E",
     "QuickBASIC": "#008080",
     "Quint": "#9d6ce5",
     "R": "#198CE7",
@@ -525,6 +526,7 @@
     "Rust": "#dea584",
     "SAS": "#B34936",
     "SCSS": "#c6538c",
+    "SIP": "#4E8D83",
     "SPARQL": "#0C4597",
     "SQF": "#3F3F3F",
     "SQL": "#e38c00",
