@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787704655520,
+  "timestamp": 1787809024585,
   "colors": {
     "1C Enterprise": "#814CCC",
     "2-Dimensional Array": "#38761D",
@@ -513,6 +513,7 @@
     "Regular Expression": "#009a00",
     "Ren'Py": "#ff7f7f",
     "Rez": "#FFDAB3",
+    "Rhai": "#FBA63B",
     "Ring": "#2D54CB",
     "Riot": "#A71E49",
     "RobotFramework": "#00c0b5",
