@@ -1,5 +1,5 @@
 {
-  "timestamp": 1788745473973,
+  "timestamp": 1788832550345,
   "colors": {
     "1C Enterprise": "#814CCC",
     "2-Dimensional Array": "#38761D",
@@ -35,6 +35,7 @@
     "Apollo Guidance Computer": "#0B3D91",
     "AppleScript": "#101F1F",
     "Arc": "#aa2afe",
+    "ArkTS": "#0080ff",
     "AsciiDoc": "#73a0c5",
     "AspectJ": "#a957b0",
     "Assembly": "#6E4C13",
@@ -324,6 +325,7 @@
     "Kotlin": "#A97BFF",
     "LFE": "#4C3023",
     "LLVM": "#185619",
+    "LLVM TableGen": "#6E8B3D",
     "LOLCODE": "#cc9900",
     "LSL": "#3d9970",
     "LabVIEW": "#fede06",
