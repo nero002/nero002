@@ -6,15 +6,15 @@ Joined GitHub **8** years ago.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| **45** public repos | **172** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2096%25) |
-| **483** commits | **0** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%204%25) |
+| **45** public repos | **173** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2096%25) |
+| **484** commits | **0** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%203%25) |
 | **4** issues | **8** PRs | ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%201%25) |
-| **66** PRs | ![+2,409](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B2%2C409) lines added |  |
-| **17** stars | ![-957](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-957) lines removed |  |
+| **66** PRs | ![+2,415](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B2%2C415) lines added |  |
+| **17** stars | ![-963](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-963) lines removed |  |
 
 ## Most Active Projects (Last Year)
 
-- [nero002](https://github.com/nero002/nero002) - 164 commits, ![+2,357](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B2%2C357) ![-950](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-950)
+- [nero002](https://github.com/nero002/nero002) - 165 commits, ![+2,363](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B2%2C363) ![-956](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-956)
 - [reelcue-privacy](https://github.com/nero002/reelcue-privacy) - 6 commits, ![+52](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B52) ![-7](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-7)
 - [News-App-Kulu-assigment](https://github.com/nero002/News-App-Kulu-assigment) - 1 commits, ![+0](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B0) ![0](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=0)
 
